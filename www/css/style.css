@@ -65,7 +65,7 @@
     }
 
     body {
-        background-color: skyblue;
+        background-color: blue;
     }
     
     input[type=number] {text-align: right;}

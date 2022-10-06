@@ -65,7 +65,13 @@
     }
 
     body {
-        background-color: blue;
+        background-color: skyblue;
+    }
+
+    button {
+        color: blue;
+        font-family: Times;
+        border-radius: 20px;
     }
     
     input[type=number] {text-align: right;}
